@@ -1,0 +1,23 @@
+{
+  "title": "A CSV header changed. Stop before the import.",
+  "description": "Check a document export contract and migrate one approved field name explicitly. Fictional manufacturing data.",
+  "details": {
+    "intro": {
+      "title": "An export contract",
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Detect and migrate the renamed column",
+        "text": "step.md"
+      }
+    ],
+    "finish": {
+      "title": "Keep the migration explicit",
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
