@@ -1,4 +1,4 @@
-Run this full example with Python 3. It rejects the unknown header, then applies one explicit rename. It also rejects short/long rows and preserves `00123` and zero.
+Save the full Python example below as `contract.py` in the lesson terminal. Run it with `python3 contract.py`. It rejects the unknown header, then applies one explicit rename. It also rejects short/long rows and preserves `00123` and zero.
 
 ```python
 """Fictional CSV contract lesson. No external calls or imports."""
